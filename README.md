@@ -3,7 +3,7 @@ A place where the discussion, contribution and planning for a DevOpsDay conferen
 
 I have been so encouraged with the interest and level of support for running the a DevOps Day conf, I've created this repo to help communicate, plan and hopefully produce a DevOps conf in both AKL & WLG
 
-I feel with the level of support and the geographical breakdown, I believe we can run a conf in both AKL & WLG. Out vision for the conf can be found in our [vision.md](Vision.md) doc
+I feel with the level of support and the geographical breakdown, I believe we can run a conf in both AKL & WLG. Our vision for the conf can be found in our [vision.md](Vision.md) doc
 
 It is my hope that these DevOps Days will provide a tipping point for the community where like minded people can get together and share their fu.
 
@@ -15,3 +15,4 @@ Any questions just ping me.
 
 **Contributors**
 * Reuben Dunn [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
+* Nigel Charman [NC](https://github.com/nigelcharman) [@nigel_charman](https://twitter.com/nigel_charman) {Can help on the ground in WLG, or with connections/planning/on the day for an AKL one}
