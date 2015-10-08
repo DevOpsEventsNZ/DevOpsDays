@@ -8,4 +8,4 @@ Our reccomendation is to start with a  small level (bounded context ;-) and then
 The highest level of contribution will be those who come on board as a main organiser. These orgainersers will lead areas that 
 will require a range of contributing levels.
 
-We will value anyone who wants to contribute to the successful DevOpsDays AKL/WLG, and beleive that there will be a range of contributing opportunities.
+We will value anyone who wants to contribute to the successful DevOpsDays AKL/WLG, and believe that there will be a range of contributing opportunities.
