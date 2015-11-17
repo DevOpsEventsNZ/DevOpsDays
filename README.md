@@ -14,4 +14,4 @@ If you're interested in contributing, or just wanting to be kept in the loop, pl
 Any questions just ping me.
 
 **Contributors**
-* Reuben Dunn [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
+* Reuben Dunn - Main Organiser [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
