@@ -11,6 +11,8 @@ A really good source of info is the [DevOpsDay](http://www.devopsdays.org/pages/
 
 If you're interested in contributing, or just wanting to be kept in the loop, please review the [contrib.md](Contrib.md), then make a PR and add your name and contact details in one of the tables below. The only rule for contributing is that you define the level to which you contribute, i.e. a Pull model.
 
+From a timing persepctive, I'm thinking midish 2016 - but I'm not holding a specific date in mind. Hopefuly this can give you an idea on proposed times frame, as a reference for your contribution.  The actual date will depend on lot of things, so our cone of uncertainty is high.
+
 Any questions just ping me.
 
 **Contributors**
