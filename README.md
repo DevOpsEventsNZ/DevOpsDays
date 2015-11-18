@@ -9,10 +9,21 @@ It is my hope that these DevOps Days will provide a tipping point for the commun
 
 A really good source of info is the [DevOpsDay](http://www.devopsdays.org/pages/organizing/) site itself. Check it out. There's lots to think about.
 
-If you're interested in contributing, or just wanting to be kept in the loop, please review the [contrib.md](Contrib.md), then make a PR and add your name  to the list. The only rule for contributing is that you define the level to which you contribute, i.e. a Pull model.
+If you're interested in contributing, or just wanting to be kept in the loop, please review the [contrib.md](Contrib.md), then make a PR and add your name and contact details in one of the tables below. The only rule for contributing is that you define the level to which you contribute, i.e. a Pull model.
 
 Any questions just ping me.
 
 **Contributors**
-* Reuben Dunn - Main Organiser [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol)
-* Nigel Charman - Organiser [GH](https://github.com/nigelcharman) [@nigel_charman](https://twitter.com/nigel_charman)
+
+**Core Team**
+
+| Name          |Contact (GH/Twitter or other)
+| ------------- |---------------|
+| Reuben Dunn   | [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol) |
+| Nigel Charman | [GH](https://github.com/nigelcharman) [@nigel_charman](https://twitter.com/nigel_charman)|
+
+**Volunteers**
+
+| Name          |Contact (GH/Twitter or other)
+| ------------- |---------------|
+
