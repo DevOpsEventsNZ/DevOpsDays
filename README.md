@@ -23,6 +23,7 @@ Any questions just ping me.
 | ------------- |---------------|
 | Reuben Dunn   | [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol) |
 | Nigel Charman | [GH](https://github.com/nigelcharman) [@nigel_charman](https://twitter.com/nigel_charman)|
+| Will Robertson | [GH](https://github.com/mexisme) [BB](https://bitbucket.org/mexisme) [@mexisme](https://twitter.com/mexisme)|
 
 **Volunteers**
 
