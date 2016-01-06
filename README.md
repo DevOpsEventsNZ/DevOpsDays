@@ -32,4 +32,5 @@ Any questions just ping me.
 | ------------- |---------------|
 | Paul Milbank	| [GH] (https://github.com/PaulMilbank) [@PaulMilbank](https://twitter.com/PaulMilbank)
 | Owen Evans    | [GH](https://github.com/buildmaster) [@buildmaster](https://twitter.com/buildmaster)|
+| Julian Simpson | [GH](https://github.com/builddoctor) [@builddoctor](https://twitter.com/builddoctor) |
 
