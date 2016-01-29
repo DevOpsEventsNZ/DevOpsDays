@@ -26,6 +26,7 @@ Any questions just ping me.
 | Will Robertson | [GH](https://github.com/mexisme) [BB](https://bitbucket.org/mexisme) [@mexisme](https://twitter.com/mexisme)|
 | Peter Sellars | [GH](https://github.com/petersellars) [@PeterSellars](https://twitter.com/petersellars)|
 | Adarsh Jupudi | [GH](https://github.com/jcadarsh) [@adarshnz](https://twitter.com/adarshnz)|
+| Aurynn Shaw   | [GH](https://github.com/aurynn) [@aurynn](https://twitter.com/aurynn)|
 
 **Volunteers**
 
