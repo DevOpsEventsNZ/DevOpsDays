@@ -38,3 +38,4 @@ Any questions just ping me.
 | Ben Vidulich | [GH](https://github.com/zl4bv) [@zl4bv](https://twitter.com/zl4bv) |
 | Tatsat Mishra (Tats) | [GH](https://github.com/Tatsinnit) [@Tats_innit](https://twitter.com/Tats_innit) [SO](http://stackoverflow.com/users/1210059/tats-innit) |
 | Nigel Somerfield | [GH](https://github.com/sakergt) [@SakerGT](https://twitter.com/SakerGT) |
+| Emily Dwyer | [E](emilydwyer023@gmail.com) [@zziwd](https://twitter.com/zziwd) |
