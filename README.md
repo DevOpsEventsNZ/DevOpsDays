@@ -27,6 +27,7 @@ Any questions just ping me.
 | Peter Sellars | [GH](https://github.com/petersellars) [@PeterSellars](https://twitter.com/petersellars)|
 | Adarsh Jupudi | [GH](https://github.com/jcadarsh) [@adarshnz](https://twitter.com/adarshnz)|
 | Aurynn Shaw   | [GH](https://github.com/aurynn) [@aurynn](https://twitter.com/aurynn)|
+| Ben Vidulich | [GH](https://github.com/zl4bv) [@zl4bv](https://twitter.com/zl4bv) |
 
 **Volunteers**
 
@@ -35,7 +36,6 @@ Any questions just ping me.
 | Paul Milbank	| [GH] (https://github.com/PaulMilbank) [@PaulMilbank](https://twitter.com/PaulMilbank)
 | Owen Evans    | [GH](https://github.com/buildmaster) [@buildmaster](https://twitter.com/buildmaster)|
 | Julian Simpson | [GH](https://github.com/builddoctor) [@builddoctor](https://twitter.com/builddoctor) |
-| Ben Vidulich | [GH](https://github.com/zl4bv) [@zl4bv](https://twitter.com/zl4bv) |
 | Tatsat Mishra (Tats) | [GH](https://github.com/Tatsinnit) [@Tats_innit](https://twitter.com/Tats_innit) [SO](http://stackoverflow.com/users/1210059/tats-innit) |
 | Nigel Somerfield | [GH](https://github.com/sakergt) [@SakerGT](https://twitter.com/SakerGT) |
 | Emily Dwyer | [@zziwd](https://twitter.com/zziwd) |
