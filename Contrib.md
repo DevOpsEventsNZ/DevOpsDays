@@ -1,9 +1,9 @@
 ###Contributions
-One of the grey areas in contributing to the production of a DevOpsDays conf is how we answer the level of contribution. 
+One of the grey areas in contributing to the production of a DevOpsDays conf is how we answer the level of contribution.
 
-We  value any contributions and we will be lead by you to manage and communicate a releastic level of contribution. Only you can measure this.
+We value any contributions and we will be lead by you to manage and communicate a realistic level of contribution. Only you can measure this.
 
-Our recommendation is to start with a  small level (bounded context ;-) and then progress. Too often we assume best case scenarios and this causes us to not realistically count the cost of partiticipation.
+Our recommendation is to start with a  small level (bounded context ;-) and then progress. Too often we assume best case scenarios and this causes us to not realistically count the cost of participation.
 
 The highest level of contribution will be those who come on board as a main organiser. These organisers will lead areas that will require a range of contributing levels.
 
