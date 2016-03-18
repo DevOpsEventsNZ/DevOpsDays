@@ -39,3 +39,4 @@ Any questions just ping me.
 | Tatsat Mishra (Tats) | [GH](https://github.com/Tatsinnit) [@Tats_innit](https://twitter.com/Tats_innit) [SO](http://stackoverflow.com/users/1210059/tats-innit) |
 | Nigel Somerfield | [GH](https://github.com/sakergt) [@SakerGT](https://twitter.com/SakerGT) |
 | Emily Dwyer | [@zziwd](https://twitter.com/zziwd) |
+| Srdan (Serge) Dukic | [GH](https://github.com/srkiNZ84) [@srkiNZ](https://twitter.com/srkiNZ) |
