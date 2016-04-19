@@ -40,4 +40,5 @@ Any questions just ping me.
 | Nigel Somerfield | [GH](https://github.com/sakergt) [@SakerGT](https://twitter.com/SakerGT) |
 | Emily Dwyer | [@zziwd](https://twitter.com/zziwd) |
 | Srdan (Serge) Dukic | [GH](https://github.com/srkiNZ84) [@srkiNZ](https://twitter.com/srkiNZ) |
-| BMK | [GH](https://github.com/LBMKRISHNA) [@lbmkrishna](https://twitter.com/lbmkrishna) in (https://nz.linkedin.com/in/bmknz) |
+| BMK | [GH](https://github.com/LBMKRISHNA) [@lbmkrishna](https://twitter.com/lbmkrishna) [IN](https://nz.linkedin.com/in/bmknz) |
+| SunKee Hong | [GH](https://github.com/thesalami) [@SalamiHong](https://twitter.com/SalamiHong) |
