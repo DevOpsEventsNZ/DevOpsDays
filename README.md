@@ -28,6 +28,7 @@ Any questions just ping me.
 | Adarsh Jupudi | [GH](https://github.com/jcadarsh) [@adarshnz](https://twitter.com/adarshnz)|
 | Aurynn Shaw   | [GH](https://github.com/aurynn) [@aurynn](https://twitter.com/aurynn)|
 | Ben Vidulich | [GH](https://github.com/zl4bv) [@zl4bv](https://twitter.com/zl4bv) |
+| David White | [GH](https://github.com/credible) [@davidwhite](https://twitter.com/davidwhite) |
 
 **Volunteers**
 
