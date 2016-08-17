@@ -43,3 +43,4 @@ Any questions just ping me.
 | Srdan (Serge) Dukic | [GH](https://github.com/srkiNZ84) [@srkiNZ](https://twitter.com/srkiNZ) |
 | BMK | [GH](https://github.com/LBMKRISHNA) [@lbmkrishna](https://twitter.com/lbmkrishna) [IN](https://nz.linkedin.com/in/bmknz) |
 | SunKee Hong | [GH](https://github.com/thesalami) [@SalamiHong](https://twitter.com/SalamiHong) |
+| Flavia Machado | [GH](https://github.com/flaviafm) [@FlaviaFMachado](https://twitter.com/FlaviaFMachado) |
