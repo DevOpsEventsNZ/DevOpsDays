@@ -22,3 +22,9 @@ So that we have visibility over all commitments:
 To keep us moving quickly:
 
 * you are empowered to communicate your intentions over Slack, rather than seeking agreement. For example `I intend to order 6 sticky A2 pads at a cost of $420 tomorrow `
+
+# impartial
+
+Recognising that we all work for companies doing DevOps and all have multiple, complex relationships with other people and companies, we will be mindful of treating all parties equally. Where we feel that we are conflicted by our position, we should disclose it on Slack (_which channel?_). In some cases we will need to excuse ourselves from the activity, but in many cases disclosure is sufficient.
+
+One exception is that we exert positive bias on speakers and attendees to encourage diversity.
