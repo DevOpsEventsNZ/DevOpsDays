@@ -6,3 +6,5 @@ We value any contributions and we will be lead by you to manage and communicate 
 Our recommendation is to start with a  small level (bounded context ;-) and then progress. Too often we assume best case scenarios and this causes us to not realistically count the cost of participation.
 
 We will value anyone who wants to contribute to the successful DevOpsDays AKL/WLG, and believe that there will be a range of contributing opportunities.
+
+Please review our [working principles](principles.md) of how we look to work to give som saftey especially for those that are new 
