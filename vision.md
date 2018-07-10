@@ -1,4 +1,4 @@
-#DevOps Day Conference Vision
+# DevOps Day Conference Vision
 
 The Vision/Purpose for running the conference is to educate, engage, support and grow the DevOps Community. It is my hope that this conference will provide a catalyst for people to learn, celebrate, share and be encouraged in their DevOps/CD/RelEng... journey. It is hoped that the conference will connect a community of like-minded people that will meet and foster this sense of community well beyond the conference. 
 
