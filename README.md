@@ -14,33 +14,3 @@ If you're interested in contributing, or just wanting to be kept in the loop, pl
 From a timing persepctive, I'm thinking midish 2016 - but I'm not holding a specific date in mind. Hopefuly this can give you an idea on proposed times frame, as a reference for your contribution.  The actual date will depend on lot of things, so our cone of uncertainty is high.
 
 Any questions just ping me.
-
-**Contributors**
-
-**Core Team**
-
-| Name          |Contact (GH/Twitter or other)
-| ------------- |---------------|
-| Reuben Dunn   | [GH](https://github.com/DefSol) [@DefSol](https://twitter.com/DefSol) |
-| Nigel Charman | [GH](https://github.com/nigelcharman) [@nigel_charman](https://twitter.com/nigel_charman)|
-| Will Robertson | [GH](https://github.com/mexisme) [BB](https://bitbucket.org/mexisme) [@mexisme](https://twitter.com/mexisme)|
-| Peter Sellars | [GH](https://github.com/petersellars) [@PeterSellars](https://twitter.com/petersellars)|
-| Adarsh Jupudi | [GH](https://github.com/jcadarsh) [@adarshnz](https://twitter.com/adarshnz)|
-| Aurynn Shaw   | [GH](https://github.com/aurynn) [@aurynn](https://twitter.com/aurynn)|
-| Ben Vidulich | [GH](https://github.com/zl4bv) [@zl4bv](https://twitter.com/zl4bv) |
-| David White | [GH](https://github.com/credible) [@davidwhite](https://twitter.com/davidwhite) |
-
-**Volunteers**
-
-| Name          |Contact (GH/Twitter or other)
-| ------------- |---------------|
-| Paul Milbank	| [GH] (https://github.com/PaulMilbank) [@PaulMilbank](https://twitter.com/PaulMilbank)
-| Owen Evans    | [GH](https://github.com/buildmaster) [@buildmaster](https://twitter.com/buildmaster)|
-| Julian Simpson | [GH](https://github.com/builddoctor) [@builddoctor](https://twitter.com/builddoctor) |
-| Tatsat Mishra (Tats) | [GH](https://github.com/Tatsinnit) [@Tats_innit](https://twitter.com/Tats_innit) [SO](http://stackoverflow.com/users/1210059/tats-innit) |
-| Nigel Somerfield | [GH](https://github.com/sakergt) [@SakerGT](https://twitter.com/SakerGT) |
-| Emily Dwyer | [@zziwd](https://twitter.com/zziwd) |
-| Srdan (Serge) Dukic | [GH](https://github.com/srkiNZ84) [@srkiNZ](https://twitter.com/srkiNZ) |
-| BMK | [GH](https://github.com/LBMKRISHNA) [@lbmkrishna](https://twitter.com/lbmkrishna) [IN](https://nz.linkedin.com/in/bmknz) |
-| SunKee Hong | [GH](https://github.com/thesalami) [@SalamiHong](https://twitter.com/SalamiHong) |
-| Flavia Machado | [GH](https://github.com/flaviafm) [@FlaviaFMachado](https://twitter.com/FlaviaFMachado) |
