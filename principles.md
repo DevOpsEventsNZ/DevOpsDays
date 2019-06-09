@@ -9,7 +9,7 @@ So that our communication is transparent, consistent and professional:
   * It is ok for initial contact with a sponsor to be through a personal channel, but once in the sponsor pipeline, please always use sponsor@devopsdays.nz.
   * All communication with attendees is from attendees@devopsdays.nz
   * All communication with speakers is from speakers@devopsdays.nz
-  * All other communication is from admin@devopsdays.nz
+  * All other communication is from either info@devopsdays.nz or admin@devopsdays.nz
 
 # transparent
 
@@ -25,6 +25,6 @@ To keep us moving quickly:
 
 # impartial
 
-Recognising that we all work for companies doing DevOps and all have multiple, complex relationships with other people and companies, we will be mindful of treating all parties equally. Where we feel that we are conflicted by our position, we should discuss with one of the directors (Reuben, Nigel, Adarsh, Em). In some cases we will need to excuse ourselves from the activity, but in many cases disclosure is sufficient.
+Recognising that we all work for companies doing DevOps and all have multiple, complex relationships with other people and companies, we will be mindful of treating all parties equally. Where we feel that we are conflicted by our position, we should discuss with one of the directors (Reuben, Nigel, Adarsh, Flavia, Em). In some cases we will need to excuse ourselves from the activity, but in many cases disclosure is sufficient.
 
 One exception is that we exert positive bias on speakers and attendees to encourage diversity.
